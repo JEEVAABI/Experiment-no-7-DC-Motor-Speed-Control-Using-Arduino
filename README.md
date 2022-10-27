@@ -94,7 +94,7 @@ void clockwise(int Speed)
 #### CLOCKWISE:
 ![output](clock.png)
 #### COUNTER CLOCKWISE:
-![output](ccw.png)
+![output](CCW.png)
 
 
 
